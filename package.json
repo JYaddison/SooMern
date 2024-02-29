@@ -1,0 +1,22 @@
+{
+  "name": "soomern",
+  "version": "1.0.0",
+  "description": "SOO Mern project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "date-fns": "^3.3.1",
+    "express": "^4.18.3",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
